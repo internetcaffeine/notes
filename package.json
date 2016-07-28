@@ -1,0 +1,37 @@
+{
+    "author": "internetcaffeine@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "notes",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Notes",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/rsz_download.png",
+                    "menuIcon": true,
+                    "name": "CANTALOUPE",
+                    "targetPlatforms": null,
+                    "type": "png"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "55d451c6-476f-46a9-9c81-cdd0eb522d23",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
